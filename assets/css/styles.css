@@ -338,7 +338,7 @@ img{
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
-  margin-left: auto;
+  margin: auto;
 }
 
 /* ===== FOOTER =====*/
@@ -505,7 +505,25 @@ img{
   float: right;
 }
 
-.flag-wrapper {
+.flag-wrapper-1 {
+  position: relative;
+  display: inline-block;
+  
+  text-align: center;
+}
+.flag-wrapper-2 {
+  position: relative;
+  display: inline-block;
+  
+  text-align: center;
+}
+.flag-wrapper-3 {
+  position: relative;
+  display: inline-block;
+  
+  text-align: center;
+}
+.flag-wrapper-4 {
   position: relative;
   display: inline-block;
   
@@ -547,7 +565,7 @@ img{
   margin-top: -10px;
   background: #fff;
   border-radius: 10px;
-  border: 4px solid rgb(0,0,0);
+  border: 4px solid rgb(48, 46, 46);
   z-index: 10;
 }
 
@@ -588,7 +606,7 @@ img{
   
   line-height: 1em;
   font-size: 0.66666em;
-  color: rgb(0,0,0);
+  color: rgb(48, 46, 46);
   vertical-align: middle;
 }
 

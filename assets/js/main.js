@@ -52,6 +52,10 @@ sr.reveal('.skills__img',{delay: 600});
 
 /*SCROLL WORK*/
 sr.reveal('.timeline',{interval: 200}); 
+sr.reveal('.flag-wrapper-1',{interval: 200}); 
+sr.reveal('.flag-wrapper-2',{interval: 200}); 
+sr.reveal('.flag-wrapper-3',{interval: 200}); 
+sr.reveal('.flag-wrapper-4',{interval: 200}); 
 
 /*SCROLL CONTACT*/
 sr.reveal('.contact__input',{interval: 200}); 
