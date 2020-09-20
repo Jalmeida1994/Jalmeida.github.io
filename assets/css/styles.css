@@ -471,7 +471,7 @@ img{
   margin-left: -3px;
   background: var(--first-color);
   background: -moz-linear-gradient(top,  rgba(64, 112, 244, 0) 0%,  rgb(64, 112, 244) 8%, rgb(64, 112, 244) 92%,  rgb(64, 112, 244) 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(64, 112, 244, 1))), color-stop(100%, rgba(64, 112, 244, 1)));
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(64, 112, 244, 1))), color-stop(100%, rgba(64, 112, 244, 1));
   background: -webkit-linear-gradient(top, rgba(80,80,80,0) 0%,  rgb(64, 112, 244) 8%, rgb(64, 112, 244) 92%,  rgba(64, 112, 244, 0) 100%);
   background: -o-linear-gradient(top, rgba(64, 112, 244, 0) 0%, rgb(64, 112, 244) 8%,rgb(64, 112, 244)92%,rgba(64, 112, 244, 0) 100%);
   background: -ms-linear-gradient(top, rgba(64, 112, 244, 0) 0%, rgb(64, 112, 244) 8%,rgb(64, 112, 244) 92%, rgba(64, 112, 244, 0) 100%);
